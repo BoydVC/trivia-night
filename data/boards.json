@@ -1,0 +1,1887 @@
+{
+ "categories": [
+  {
+   "key": "md",
+   "name": "Maryland & Baltimore"
+  },
+  {
+   "key": "bal",
+   "name": "Ravens & Orioles"
+  },
+  {
+   "key": "soc",
+   "name": "Chelsea & World Soccer"
+  },
+  {
+   "key": "space",
+   "name": "Rockets & Space"
+  },
+  {
+   "key": "sci",
+   "name": "8th/6th-Grade Science"
+  },
+  {
+   "key": "word",
+   "name": "Word Play"
+  }
+ ],
+ "values": [
+  200,
+  400,
+  600,
+  800,
+  1000
+ ],
+ "boards": [
+  {
+   "id": 1,
+   "name": "Board A · Crabs & Chopsticks",
+   "cells": [
+    {
+     "id": "b1-md-1",
+     "cat": "md",
+     "value": 200,
+     "clue": "Home of the U.S. Naval Academy, this city is Maryland's state capital.",
+     "answer": "Annapolis",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Annapolis, Maryland",
+       "url": "https://en.wikipedia.org/wiki/Annapolis,_Maryland",
+       "revid": 1377064064,
+       "quote": "Annapolis ( ə-NAP-əl-iss) is the capital of the U.S. state of Maryland.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-md-2",
+     "cat": "md",
+     "value": 400,
+     "clue": "Francis Scott Key wrote the words to \"The Star-Spangled Banner\" after watching the British bombard this Baltimore fort in 1814.",
+     "answer": "Fort McHenry",
+     "accept": [
+      "McHenry"
+     ],
+     "sources": [
+      {
+       "title": "Fort McHenry",
+       "url": "https://en.wikipedia.org/wiki/Fort_McHenry",
+       "revid": 1376246054,
+       "quote": "The sight of the ensign inspired Francis Scott Key to write the poem \"Defence of Fort M'Henry\" that was later set to music in the song \"To Anacreon in Heaven\", which was later known and designated as \"The Star-Spangled Banner\", the national anthem of the United States.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-md-3",
+     "cat": "md",
+     "value": 600,
+     "clue": "Maryland's official state bird is this orange-and-black songbird, which also gives a Baltimore team its name.",
+     "answer": "Baltimore oriole",
+     "accept": [
+      "oriole"
+     ],
+     "sources": [
+      {
+       "title": "Baltimore Orioles",
+       "url": "https://en.wikipedia.org/wiki/Baltimore_Orioles",
+       "revid": 1378768536,
+       "quote": "The oriole is the official state bird of Maryland; the name has been used by several baseball clubs in the city, including another AL charter member franchise which folded after the 1902 season and was replaced the next year by the New York Highlanders, later the Yankees.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-md-4",
+     "cat": "md",
+     "value": 800,
+     "clue": "Born into slavery in Dorchester County, Maryland, she later led dozens of people to freedom on the Underground Railroad.",
+     "answer": "Harriet Tubman",
+     "accept": [
+      "Tubman"
+     ],
+     "sources": [
+      {
+       "title": "Harriet Tubman",
+       "url": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+       "revid": 1375432630,
+       "quote": "Born into slavery in Dorchester County, Maryland, Tubman was beaten and whipped by enslavers as a child.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-md-5",
+     "cat": "md",
+     "value": 1000,
+     "clue": "Maryland's black-and-gold flag is the banner of arms of Cecil Calvert, who held this English noble title: 2nd ___ ___.",
+     "answer": "Baron Baltimore",
+     "accept": [
+      "Lord Baltimore"
+     ],
+     "sources": [
+      {
+       "title": "Flag of Maryland",
+       "url": "https://en.wikipedia.org/wiki/Flag_of_Maryland",
+       "revid": 1376187115,
+       "quote": "The flag of Maryland is the official flag of the U.S. state of Maryland and the 17th-century heraldic banner of arms of Cecil, 2nd Baron Baltimore.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-bal-1",
+     "cat": "bal",
+     "value": 200,
+     "clue": "Baltimore's NFL team takes its name from this famous poem by Edgar Allan Poe.",
+     "answer": "The Raven",
+     "accept": [
+      "Raven"
+     ],
+     "sources": [
+      {
+       "title": "Baltimore Ravens",
+       "url": "https://en.wikipedia.org/wiki/Baltimore_Ravens",
+       "revid": 1377709011,
+       "quote": "The name \"Ravens\" was inspired by Edgar Allan Poe's poem The Raven.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-bal-2",
+     "cat": "bal",
+     "value": 400,
+     "clue": "Completed in 1992 to replace Memorial Stadium, this is the Orioles' downtown Baltimore ballpark.",
+     "answer": "Camden Yards",
+     "accept": [
+      "Oriole Park at Camden Yards",
+      "Oriole Park"
+     ],
+     "sources": [
+      {
+       "title": "Oriole Park at Camden Yards",
+       "url": "https://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards",
+       "revid": 1377140400,
+       "quote": "It was completed in 1992 to replace Memorial Stadium.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-bal-3",
+     "cat": "bal",
+     "value": 600,
+     "clue": "This Ravens linebacker was named MVP of Super Bowl XXXV.",
+     "answer": "Ray Lewis",
+     "accept": [
+      "Lewis"
+     ],
+     "sources": [
+      {
+       "title": "Super Bowl XXXV",
+       "url": "https://en.wikipedia.org/wiki/Super_Bowl_XXXV",
+       "revid": 1370489631,
+       "quote": "Ravens linebacker Ray Lewis, who made three solo tackles, two assists, and blocked four passes, was named Super Bowl MVP.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-bal-4",
+     "cat": "bal",
+     "value": 800,
+     "clue": "Nicknamed \"The Iron Man,\" this Orioles shortstop played in 2,632 consecutive games.",
+     "answer": "Cal Ripken Jr.",
+     "accept": [
+      "Cal Ripken",
+      "Ripken"
+     ],
+     "sources": [
+      {
+       "title": "Cal Ripken Jr.",
+       "url": "https://en.wikipedia.org/wiki/Cal_Ripken_Jr.",
+       "revid": 1372682724,
+       "quote": "Ripken holds the record for consecutive games played (2,632), having surpassed Lou Gehrig's streak of 2,130 which had stood for 56 years and which many deemed was unbreakable.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-bal-5",
+     "cat": "bal",
+     "value": 1000,
+     "clue": "The Orioles beat the Philadelphia Phillies to win the World Series in this year.",
+     "answer": "1983",
+     "accept": [],
+     "sources": [
+      {
+       "title": "1983 World Series",
+       "url": "https://en.wikipedia.org/wiki/1983_World_Series",
+       "revid": 1378511567,
+       "quote": "The 80th edition of the World Series, it was a best-of-seven playoff played between the American League champion Baltimore Orioles and the National League champion Philadelphia Phillies.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-soc-1",
+     "cat": "soc",
+     "value": 200,
+     "clue": "Chelsea F.C. plays its home games at this west London stadium.",
+     "answer": "Stamford Bridge",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Chelsea F.C.",
+       "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+       "revid": 1378544423,
+       "quote": "The club was founded in 1905, taking its name from the adjacent area of Chelsea, and plays its home matches at Stamford Bridge.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-soc-2",
+     "cat": "soc",
+     "value": 400,
+     "clue": "In association football each team has this many players on the field, including the goalkeeper.",
+     "answer": "Eleven",
+     "accept": [
+      "11"
+     ],
+     "sources": [
+      {
+       "title": "Association football",
+       "url": "https://en.wikipedia.org/wiki/Association_football",
+       "revid": 1378752039,
+       "quote": "Association football, commonly known as football or soccer, is a team sport played between two teams of 11 players who mostly use their feet to kick an inflated ball around a pitch (playing field).",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-soc-3",
+     "cat": "soc",
+     "value": 600,
+     "clue": "The 2026 FIFA World Cup was hosted by the United States, Mexico and this country.",
+     "answer": "Canada",
+     "accept": [],
+     "sources": [
+      {
+       "title": "2026 FIFA World Cup",
+       "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+       "revid": 1378779150,
+       "quote": "It was jointly hosted by 16 cities—11 in the United States, 3 in Mexico, and 2 in Canada.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-soc-4",
+     "cat": "soc",
+     "value": 800,
+     "clue": "Chelsea won its first Champions League title in 2012, beating this German club on penalties in its own stadium in Munich.",
+     "answer": "Bayern Munich",
+     "accept": [
+      "Bayern",
+      "FC Bayern"
+     ],
+     "sources": [
+      {
+       "title": "2012 UEFA Champions League final",
+       "url": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+       "revid": 1371171265,
+       "quote": "The 2012 UEFA Champions League final was an association football match which took place on Saturday, 19 May 2012 between Bayern Munich of Germany and Chelsea of England at the Allianz Arena in Munich, Germany.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-soc-5",
+     "cat": "soc",
+     "value": 1000,
+     "clue": "With 211 goals, this midfielder is Chelsea's all-time top goalscorer.",
+     "answer": "Frank Lampard",
+     "accept": [
+      "Lampard"
+     ],
+     "sources": [
+      {
+       "title": "Frank Lampard",
+       "url": "https://en.wikipedia.org/wiki/Frank_Lampard",
+       "revid": 1375758129,
+       "quote": "In his thirteen years with the club, Lampard established himself as a prolific scorer from midfield, becoming the club's all-time leading goalscorer, with 211 goals in all competitions.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-space-1",
+     "cat": "space",
+     "value": 200,
+     "clue": "Because of its orange-red appearance, this planet is nicknamed \"the Red Planet.\"",
+     "answer": "Mars",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Mars",
+       "url": "https://en.wikipedia.org/wiki/Mars",
+       "revid": 1375821898,
+       "quote": "It is also known as the \"Red Planet\", for its orange-red appearance.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-space-2",
+     "cat": "space",
+     "value": 400,
+     "clue": "In July 1969 he became the first person to walk on the Moon.",
+     "answer": "Neil Armstrong",
+     "accept": [
+      "Armstrong"
+     ],
+     "sources": [
+      {
+       "title": "Apollo 11",
+       "url": "https://en.wikipedia.org/wiki/Apollo_11",
+       "revid": 1371120273,
+       "quote": "Armstrong became the first human to walk on the Moon approximately six hours after landing, followed by Aldrin nineteen minutes later.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-space-3",
+     "cat": "space",
+     "value": 600,
+     "clue": "This giant first stage of SpaceX's Starship flies back to its launch site and lands by being caught by the launch tower.",
+     "answer": "Super Heavy",
+     "accept": [
+      "Super Heavy booster"
+     ],
+     "sources": [
+      {
+       "title": "SpaceX Super Heavy",
+       "url": "https://en.wikipedia.org/wiki/SpaceX_Super_Heavy",
+       "revid": 1378541953,
+       "quote": "It returns to its launch site after propelling the second stage toward orbit, landing vertically by being caught by the launch tower.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-space-4",
+     "cat": "space",
+     "value": 800,
+     "clue": "This Soviet cosmonaut became the first human in space in April 1961.",
+     "answer": "Yuri Gagarin",
+     "accept": [
+      "Gagarin"
+     ],
+     "sources": [
+      {
+       "title": "Yuri Gagarin",
+       "url": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+       "revid": 1378508084,
+       "quote": "Yuri Alekseyevich Gagarin (9 March 1934 – 27 March 1968) was a Soviet pilot and cosmonaut who became the first person to journey into outer space during the first successful crewed spaceflight.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-space-5",
+     "cat": "space",
+     "value": 1000,
+     "clue": "NASA's program to return astronauts to the Moon is named for this Greek goddess, the twin sister of Apollo.",
+     "answer": "Artemis",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Artemis",
+       "url": "https://en.wikipedia.org/wiki/Artemis",
+       "revid": 1378209655,
+       "quote": "Artemis was the daughter of Leto and Zeus, and twin sister of Apollo.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-sci-1",
+     "cat": "sci",
+     "value": 200,
+     "clue": "With atomic number 1, it's the lightest element.",
+     "answer": "Hydrogen",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Hydrogen",
+       "url": "https://en.wikipedia.org/wiki/Hydrogen",
+       "revid": 1376485434,
+       "quote": "Hydrogen is a chemical element; it has the symbol H and atomic number 1.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-sci-2",
+     "cat": "sci",
+     "value": 400,
+     "clue": "Plants, algae and some bacteria use this process to turn light energy into chemical energy.",
+     "answer": "Photosynthesis",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Photosynthesis",
+       "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+       "revid": 1371284103,
+       "quote": "Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy—typically from sunlight—into the chemical energy necessary to fuel their metabolism.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-sci-3",
+     "cat": "sci",
+     "value": 600,
+     "clue": "From the Latin word aurum, it's the chemical symbol for gold.",
+     "answer": "Au",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Gold",
+       "url": "https://en.wikipedia.org/wiki/Gold",
+       "revid": 1378929640,
+       "quote": "Gold is a chemical element; its chemical symbol is Au (from Latin aurum) and atomic number 79.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b1-sci-4",
+     "cat": "sci",
+     "value": 800,
+     "clue": "This type of rock forms when magma or lava cools and hardens.",
+     "answer": "Igneous rock",
+     "accept": [
+      "igneous"
+     ],
+     "sources": [
+      {
+       "title": "Igneous rock",
+       "url": "https://en.wikipedia.org/wiki/Igneous_rock",
+       "revid": 1370877236,
+       "quote": "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-sci-5",
+     "cat": "sci",
+     "value": 1000,
+     "clue": "This iron-containing protein in red blood cells carries oxygen around the body.",
+     "answer": "Hemoglobin",
+     "accept": [
+      "haemoglobin"
+     ],
+     "sources": [
+      {
+       "title": "Hemoglobin",
+       "url": "https://en.wikipedia.org/wiki/Hemoglobin",
+       "revid": 1376983759,
+       "quote": "Hemoglobin (haemoglobin, Hb or Hgb) is a protein containing iron that facilitates the transportation of oxygen in red blood cells.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-word-1",
+     "cat": "word",
+     "value": 200,
+     "clue": "\"Racecar\" and \"level\" are examples, because they read the same backward as forward.",
+     "answer": "Palindrome",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Palindrome",
+       "url": "https://en.wikipedia.org/wiki/Palindrome",
+       "revid": 1376210800,
+       "quote": "A palindrome () is a word, number, phrase, or other sequence of symbols that reads the same backwards as forwards, such as madam or racecar, the date \"22/02/2022\", or the sentence \"A man, a plan, a canal – Panama\"",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-word-2",
+     "cat": "word",
+     "value": 400,
+     "clue": "\"Pair\" and \"pear\" are examples of these: words that sound the same but have different meanings.",
+     "answer": "Homophones",
+     "accept": [
+      "homophone"
+     ],
+     "sources": [
+      {
+       "title": "Homophone",
+       "url": "https://en.wikipedia.org/wiki/Homophone",
+       "revid": 1379061292,
+       "quote": "A homophone () is a word that is pronounced the same as another word but differs in meaning or in spelling.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-word-3",
+     "cat": "word",
+     "value": 600,
+     "clue": "\"Buzz,\" \"sizzle\" and \"moo\" are examples of this, a word that imitates the sound it describes.",
+     "answer": "Onomatopoeia",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Onomatopoeia",
+       "url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+       "revid": 1374815488,
+       "quote": "Onomatopoeia is a type of word, or the process of creating a word, that phonetically imitates, resembles, or suggests a sound that it refers to.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-word-4",
+     "cat": "word",
+     "value": 800,
+     "clue": "\"Smog\" (smoke + fog) and \"motel\" (motor + hotel) are examples of this kind of blended word.",
+     "answer": "Portmanteau",
+     "accept": [
+      "blend word",
+      "blend"
+     ],
+     "sources": [
+      {
+       "title": "Portmanteau",
+       "url": "https://en.wikipedia.org/wiki/Portmanteau",
+       "revid": 1378753745,
+       "quote": "English examples include smog, coined by blending smoke and fog, and motel, from motor (motorist) and hotel.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b1-word-5",
+     "cat": "word",
+     "value": 1000,
+     "clue": "Saying \"you hissed my mystery lecture\" for \"you missed my history lecture\" is this word play, named for a priest and teacher at Oxford.",
+     "answer": "Spoonerism",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Spoonerism",
+       "url": "https://en.wikipedia.org/wiki/Spoonerism",
+       "revid": 1367479282,
+       "quote": "A spoonerism is an occurrence of speech in which corresponding consonants, vowels, or morphemes are switched (see metathesis) between two words of a phrase.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    }
+   ],
+   "final": {
+    "id": "b1-final",
+    "category": "Baltimore Teams",
+    "clue": "The Orioles were once the St. Louis ___, and the Ravens were formed when the owner of the Cleveland ___ moved his team to Baltimore. Fill in both blanks with the same word.",
+    "answer": "Browns",
+    "accept": [
+     "the Browns"
+    ],
+    "sources": [
+     {
+      "title": "Baltimore Orioles",
+      "url": "https://en.wikipedia.org/wiki/Baltimore_Orioles",
+      "revid": 1378768536,
+      "quote": "As one of the American League's eight charter teams in 1901, the franchise spent its first year as a major league club in Milwaukee as the Milwaukee Brewers before moving to St. Louis to become the St. Louis Browns in 1902.",
+      "publisher": "Wikipedia"
+     },
+     {
+      "title": "Baltimore Ravens",
+      "url": "https://en.wikipedia.org/wiki/Baltimore_Ravens",
+      "revid": 1377709011,
+      "quote": "The Baltimore Ravens were established in 1996 after Art Modell, then owner of the Cleveland Browns, announced plans in 1995 to move the franchise from Cleveland to Baltimore.",
+      "publisher": "Wikipedia"
+     }
+    ]
+   }
+  },
+  {
+   "id": 2,
+   "name": "Board B · Purple Reign",
+   "cells": [
+    {
+     "id": "b2-md-1",
+     "cat": "md",
+     "value": 200,
+     "clue": "By population, it's the largest city in Maryland.",
+     "answer": "Baltimore",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Baltimore",
+       "url": "https://en.wikipedia.org/wiki/Baltimore",
+       "revid": 1378832262,
+       "quote": "Baltimore, also known as Baltimore City, is the most populous city in the U.S. state of Maryland.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-md-2",
+     "cat": "md",
+     "value": 400,
+     "clue": "Maryland's official state crustacean is this crab, famous on Chesapeake Bay summer tables.",
+     "answer": "Blue crab",
+     "accept": [
+      "Maryland blue crab",
+      "Atlantic blue crab"
+     ],
+     "sources": [
+      {
+       "title": "Callinectes sapidus",
+       "url": "https://en.wikipedia.org/wiki/Callinectes_sapidus",
+       "revid": 1378735836,
+       "quote": "It is Maryland's largest commercial fishery and has been designated its state crustacean.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-md-3",
+     "cat": "md",
+     "value": 600,
+     "clue": "Future U.S. Navy and Marine Corps officers study at this school in Maryland's capital city.",
+     "answer": "United States Naval Academy",
+     "accept": [
+      "Naval Academy",
+      "USNA",
+      "the Naval Academy"
+     ],
+     "sources": [
+      {
+       "title": "Annapolis, Maryland",
+       "url": "https://en.wikipedia.org/wiki/Annapolis,_Maryland",
+       "revid": 1377064064,
+       "quote": "The U.S. Naval Academy, established 1845, is adjacent to the city limits.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-md-4",
+     "cat": "md",
+     "value": 800,
+     "clue": "This blend of herbs and spices, a favorite on seafood, was created in Baltimore in 1939.",
+     "answer": "Old Bay",
+     "accept": [
+      "Old Bay Seasoning"
+     ],
+     "sources": [
+      {
+       "title": "Old Bay Seasoning",
+       "url": "https://en.wikipedia.org/wiki/Old_Bay_Seasoning",
+       "revid": 1373071819,
+       "quote": "Old Bay Seasoning is a blend of herbs and spices originally created in Baltimore in 1939, with manufacturing passed to McCormick & Company in 1990.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-md-5",
+     "cat": "md",
+     "value": 1000,
+     "clue": "Baltimore's airport, BWI, is officially named for this Baltimore native, the first African American Supreme Court justice.",
+     "answer": "Thurgood Marshall",
+     "accept": [
+      "Marshall"
+     ],
+     "sources": [
+      {
+       "title": "Baltimore/Washington International Airport",
+       "url": "https://en.wikipedia.org/wiki/Baltimore/Washington_International_Airport",
+       "revid": 1378857457,
+       "quote": "Baltimore/Washington International Thurgood Marshall Airport (IATA: BWI, ICAO: KBWI, FAA LID: BWI), commonly referred to as Baltimore/Washington International Airport or simply as BWI Airport, is an international airport in Anne Arundel County, Maryland, located 9 miles (14 km; 7.8 nmi) south of downtown Baltimore and 30 miles (50 km) northeast of Washington, D.C. The airport is the 7th busiest in the Mid-Atlantic region of North America and is owned by the Maryland Aviation Administration.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-bal-1",
+     "cat": "bal",
+     "value": 200,
+     "clue": "The Ravens play in this NFL division of the American Football Conference, named for a compass direction.",
+     "answer": "AFC North",
+     "accept": [
+      "North",
+      "the AFC North"
+     ],
+     "sources": [
+      {
+       "title": "Baltimore Ravens",
+       "url": "https://en.wikipedia.org/wiki/Baltimore_Ravens",
+       "revid": 1377709011,
+       "quote": "The Ravens compete in the National Football League (NFL) as a member of the American Football Conference (AFC) North division.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-bal-2",
+     "cat": "bal",
+     "value": 400,
+     "clue": "The Ravens won their first Super Bowl, XXXV, by beating this New York team.",
+     "answer": "New York Giants",
+     "accept": [
+      "Giants",
+      "the Giants"
+     ],
+     "sources": [
+      {
+       "title": "Super Bowl XXXV",
+       "url": "https://en.wikipedia.org/wiki/Super_Bowl_XXXV",
+       "revid": 1370489631,
+       "quote": "Super Bowl XXXV was an American football game between the American Football Conference (AFC) Champion Baltimore Ravens and the National Football Conference (NFC) Champion New York Giants to decide the National Football League (NFL) champion for the 2000 Season.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-bal-3",
+     "cat": "bal",
+     "value": 600,
+     "clue": "Famous for his glove at third base, this Orioles Hall of Famer was nicknamed \"The Human Vacuum Cleaner.\"",
+     "answer": "Brooks Robinson",
+     "accept": [
+      "Brooks"
+     ],
+     "sources": [
+      {
+       "title": "Brooks Robinson",
+       "url": "https://en.wikipedia.org/wiki/Brooks_Robinson",
+       "revid": 1371041539,
+       "quote": "Nicknamed \"Mr. Hoover\" and \"the Human Vacuum Cleaner\", he is generally considered to have been the greatest defensive third baseman in major league history.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-bal-4",
+     "cat": "bal",
+     "value": 800,
+     "clue": "In his first full season as the starter, this Ravens quarterback won NFL MVP by a unanimous vote.",
+     "answer": "Lamar Jackson",
+     "accept": [
+      "Lamar",
+      "Jackson"
+     ],
+     "sources": [
+      {
+       "title": "Lamar Jackson",
+       "url": "https://en.wikipedia.org/wiki/Lamar_Jackson",
+       "revid": 1378505184,
+       "quote": "In his first full season, he led the NFL in touchdown passes and set the single-season rushing record for a quarterback, earning unanimous NFL MVP honors and becoming the fourth Black quarterback to win the award.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-bal-5",
+     "cat": "bal",
+     "value": 1000,
+     "clue": "In 1966, his first season with the Orioles, this slugger won baseball's Triple Crown.",
+     "answer": "Frank Robinson",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Frank Robinson",
+       "url": "https://en.wikipedia.org/wiki/Frank_Robinson",
+       "revid": 1370838553,
+       "quote": "The first player to be named Most Valuable Player (MVP) of both the National League (NL) and the American League (AL), Robinson was named the NL MVP after leading the Cincinnati Reds to the pennant in 1961 and was named the AL MVP in 1966 with the Baltimore Orioles after winning the Triple Crown; Robinson's 49 home runs (HR) that year tied for the most by any AL player between 1962 and 1989, and stood as a franchise record for 30 years.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-soc-1",
+     "cat": "soc",
+     "value": 200,
+     "clue": "Chelsea Football Club is based in this capital city.",
+     "answer": "London",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Chelsea F.C.",
+       "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+       "revid": 1378544423,
+       "quote": "Chelsea Football Club is a professional association football club based in Fulham, West London, England.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-soc-2",
+     "cat": "soc",
+     "value": 400,
+     "clue": "It's the name for one player scoring three goals in a single game.",
+     "answer": "Hat-trick",
+     "accept": [
+      "hat trick"
+     ],
+     "sources": [
+      {
+       "title": "Hat-trick",
+       "url": "https://en.wikipedia.org/wiki/Hat-trick",
+       "revid": 1374476836,
+       "quote": "A hat-trick or hat trick is the achievement of a generally positive feat three times in a match, or another achievement based on the number three.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-soc-3",
+     "cat": "soc",
+     "value": 600,
+     "clue": "This Argentine superstar scored the first goal of the 2022 World Cup final, on a penalty kick.",
+     "answer": "Lionel Messi",
+     "accept": [
+      "Messi"
+     ],
+     "sources": [
+      {
+       "title": "2022 FIFA World Cup final",
+       "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+       "revid": 1377947686,
+       "quote": "Argentina took a 1–0 lead after Lionel Messi scored from a penalty kick in the 23rd minute. Ángel Di María made it 2—0 in the 36th minute with a low shot into the corner of the goal after a sweeping Argentina counterattack.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-soc-4",
+     "cat": "soc",
+     "value": 800,
+     "clue": "Chelsea won its second Champions League in 2021, beating this English club in the final in Porto.",
+     "answer": "Manchester City",
+     "accept": [
+      "Man City",
+      "City"
+     ],
+     "sources": [
+      {
+       "title": "2021 UEFA Champions League final",
+       "url": "https://en.wikipedia.org/wiki/2021_UEFA_Champions_League_final",
+       "revid": 1359669709,
+       "quote": "It was played at the Estádio do Dragão in Porto, Portugal on 29 May 2021, between English clubs Manchester City, in their first European Cup final, and 2012 winners Chelsea.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-soc-5",
+     "cat": "soc",
+     "value": 1000,
+     "clue": "In the 2012 Champions League final this Ivorian striker scored a late equalizer and then the winning penalty for Chelsea.",
+     "answer": "Didier Drogba",
+     "accept": [
+      "Drogba"
+     ],
+     "sources": [
+      {
+       "title": "2012 UEFA Champions League final",
+       "url": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+       "revid": 1371171265,
+       "quote": "Bayern took the lead late in the second half through Thomas Müller, but Didier Drogba equalised for Chelsea five minutes later to take the game to extra time, in which Arjen Robben missed an awarded penalty, Petr Čech saving the low drive.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-space-1",
+     "cat": "space",
+     "value": 200,
+     "clue": "It's the largest planet in our Solar System.",
+     "answer": "Jupiter",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Jupiter",
+       "url": "https://en.wikipedia.org/wiki/Jupiter",
+       "revid": 1378923247,
+       "quote": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-space-2",
+     "cat": "space",
+     "value": 400,
+     "clue": "Apollo 11 landed on the Moon in this year.",
+     "answer": "1969",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Apollo 11",
+       "url": "https://en.wikipedia.org/wiki/Apollo_11",
+       "revid": 1371120273,
+       "quote": "Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-space-3",
+     "cat": "space",
+     "value": 600,
+     "clue": "Astronauts have lived aboard this orbiting laboratory, abbreviated ISS, continuously since November 2000.",
+     "answer": "International Space Station",
+     "accept": [
+      "ISS",
+      "the space station"
+     ],
+     "sources": [
+      {
+       "title": "International Space Station",
+       "url": "https://en.wikipedia.org/wiki/International_Space_Station",
+       "revid": 1379042073,
+       "quote": "Since 2 November 2000, it has hosted the longest continuous human presence in space.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-space-4",
+     "cat": "space",
+     "value": 800,
+     "clue": "Launched on December 25, 2021, this infrared space telescope is named for a former NASA administrator.",
+     "answer": "James Webb Space Telescope",
+     "accept": [
+      "James Webb",
+      "Webb",
+      "JWST"
+     ],
+     "sources": [
+      {
+       "title": "James Webb Space Telescope",
+       "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+       "revid": 1377003479,
+       "quote": "The Webb was launched on 25 December 2021 on an Ariane 5 rocket from Kourou, French Guiana.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-space-5",
+     "cat": "space",
+     "value": 1000,
+     "clue": "This NASA rover landed in Jezero Crater on Mars in 2021, carrying the helicopter Ingenuity.",
+     "answer": "Perseverance",
+     "accept": [
+      "Percy"
+     ],
+     "sources": [
+      {
+       "title": "Perseverance (rover)",
+       "url": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+       "revid": 1377293305,
+       "quote": "It also deployed the experimental helicopter Ingenuity, which in April 2021 performed the first powered and controlled flight on another planet.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-sci-1",
+     "cat": "sci",
+     "value": 200,
+     "clue": "At sea level, pure water boils at this many degrees Celsius.",
+     "answer": "100",
+     "accept": [
+      "100 degrees"
+     ],
+     "sources": [
+      {
+       "title": "Boiling point",
+       "url": "https://en.wikipedia.org/wiki/Boiling_point",
+       "revid": 1369507113,
+       "quote": "Because of this, water boils at 100 °C, rounded from scientific precision of 99.97 °C (211.95 °F), under standard pressure at sea level, but at 93.4 °C (200.1 °F) at 1,905 metres (6,250 ft) altitude.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-sci-2",
+     "cat": "sci",
+     "value": 400,
+     "clue": "Often called \"the powerhouse of the cell,\" these organelles make most of a cell's chemical energy.",
+     "answer": "Mitochondria",
+     "accept": [
+      "mitochondrion"
+     ],
+     "sources": [
+      {
+       "title": "Mitochondria",
+       "url": "https://en.wikipedia.org/wiki/Mitochondria",
+       "revid": 1378704169,
+       "quote": "The mitochondrion is popularly nicknamed the \"powerhouse of the cell\", a phrase popularized by Philip Siekevitz in a 1957 Scientific American article of the same name.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-sci-3",
+     "cat": "sci",
+     "value": 600,
+     "clue": "This sparkly form of pure carbon is famous as the hardest natural material.",
+     "answer": "Diamond",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Diamond",
+       "url": "https://en.wikipedia.org/wiki/Diamond",
+       "revid": 1375974103,
+       "quote": "Diamond has the highest hardness and thermal conductivity of any natural material, properties that are used in major industrial applications such as cutting and polishing tools.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-sci-4",
+     "cat": "sci",
+     "value": 800,
+     "clue": "\"For every action, there is an equal and opposite reaction\" is a version of this law of motion.",
+     "answer": "Newton's third law",
+     "accept": [
+      "third law",
+      "Newton's third law of motion"
+     ],
+     "sources": [
+      {
+       "title": "Newton's laws of motion",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+       "revid": 1375948061,
+       "quote": "Overly brief paraphrases of the third law, like \"action equals reaction\" might have caused confusion among generations of students: the \"action\" and \"reaction\" apply to different bodies.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-sci-5",
+     "cat": "sci",
+     "value": 1000,
+     "clue": "A typical adult human skeleton has this many bones.",
+     "answer": "206",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Human skeleton",
+       "url": "https://en.wikipedia.org/wiki/Human_skeleton",
+       "revid": 1371735216,
+       "quote": "It is composed of around 270 bones at birth – this total decreases to around 206 bones by adulthood after some bones fuse together, not counting accessory bones.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b2-word-1",
+     "cat": "word",
+     "value": 200,
+     "clue": "\"Listen\" and \"silent\" are examples of these, words made by rearranging the letters of another word.",
+     "answer": "Anagram",
+     "accept": [
+      "anagrams"
+     ],
+     "sources": [
+      {
+       "title": "Anagram",
+       "url": "https://en.wikipedia.org/wiki/Anagram",
+       "revid": 1375668333,
+       "quote": "An anagram is a word or phrase formed by rearranging the letters of a different word or phrase using all the original letters exactly once.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-word-2",
+     "cat": "word",
+     "value": 400,
+     "clue": "\"Busy as a bee\" is this figure of speech, comparing two things using \"like\" or \"as.\"",
+     "answer": "Simile",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Simile",
+       "url": "https://en.wikipedia.org/wiki/Simile",
+       "revid": 1377091663,
+       "quote": "It is usually understood specifically to entail figurative comparison: thus \"a wolf is like a dog\" is merely a literal comparison, whereas the figurative \"a man is like a wolf\" is a simile.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-word-3",
+     "cat": "word",
+     "value": 600,
+     "clue": "\"Peter Piper picked a peck\" is an example of this, the repetition of the same starting sound.",
+     "answer": "Alliteration",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Alliteration",
+       "url": "https://en.wikipedia.org/wiki/Alliteration",
+       "revid": 1378984327,
+       "quote": "Alliteration is the repetition of syllable-initial consonant sounds between nearby words, or of syllable-initial vowels if the syllables in question do not start with a consonant.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-word-4",
+     "cat": "word",
+     "value": 800,
+     "clue": "\"The quick brown fox jumps over the lazy dog\" is this kind of sentence, one that uses every letter of the alphabet.",
+     "answer": "Pangram",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Pangram",
+       "url": "https://en.wikipedia.org/wiki/Pangram",
+       "revid": 1379045894,
+       "quote": "A pangram, or holoalphabetic sentence, phrase, or word, uses every letter of a given alphabet at least once.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b2-word-5",
+     "cat": "word",
+     "value": 1000,
+     "clue": "\"Jumbo shrimp\" is a funny example of this figure of speech that pairs contradictory words.",
+     "answer": "Oxymoron",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Oxymoron",
+       "url": "https://en.wikipedia.org/wiki/Oxymoron",
+       "revid": 1376897418,
+       "quote": "An oxymoron (plurals: oxymorons and oxymora) is a figure of speech that juxtaposes concepts with opposite meanings within a word or in a phrase that is a self-contradiction.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    }
+   ],
+   "final": {
+    "id": "b2-final",
+    "category": "Maryland in Space",
+    "clue": "NASA's spaceflight center in Greenbelt, Maryland, which helps run the Hubble telescope, is named for this American who launched the first liquid-fueled rocket in 1926.",
+    "answer": "Robert Goddard",
+    "accept": [
+     "Goddard",
+     "Robert H. Goddard"
+    ],
+    "sources": [
+     {
+      "title": "Goddard Space Flight Center",
+      "url": "https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center",
+      "revid": 1375963868,
+      "quote": "Named for American rocket propulsion pioneer Robert H. Goddard, it is one of ten major NASA field centers.",
+      "publisher": "Wikipedia"
+     },
+     {
+      "title": "Robert H. Goddard",
+      "url": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+      "revid": 1379079442,
+      "quote": "Robert Hutchings Goddard (October 5, 1882 – August 10, 1945) was an American physicist, inventor, and engineer credited with creating and building the world's first liquid-fueled rocket, which was successfully launched on March 16, 1926.",
+      "publisher": "Wikipedia"
+     }
+    ]
+   }
+  },
+  {
+   "id": 3,
+   "name": "Board C · Blue Skies",
+   "cells": [
+    {
+     "id": "b3-md-1",
+     "cat": "md",
+     "value": 200,
+     "clue": "This body of water, crossed by the Bay Bridge, is the largest estuary in the United States.",
+     "answer": "Chesapeake Bay",
+     "accept": [
+      "the Chesapeake"
+     ],
+     "sources": [
+      {
+       "title": "Chesapeake Bay",
+       "url": "https://en.wikipedia.org/wiki/Chesapeake_Bay",
+       "revid": 1378458431,
+       "quote": "The Chesapeake Bay ( CHESS-ə-peek) is the largest estuary in the United States.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-md-2",
+     "cat": "md",
+     "value": 400,
+     "clue": "An open-ocean shark tank and a tropical rain forest exhibit are inside this big aquarium on Baltimore's Inner Harbor.",
+     "answer": "National Aquarium",
+     "accept": [
+      "National Aquarium in Baltimore"
+     ],
+     "sources": [
+      {
+       "title": "National Aquarium (Baltimore)",
+       "url": "https://en.wikipedia.org/wiki/National_Aquarium_(Baltimore)",
+       "revid": 1379084236,
+       "quote": "The National Aquarium—also known as the National Aquarium in Baltimore or Baltimore Aquarium—is a nonprofit public aquarium located at 501 East Pratt Street on Pier 3 in the Inner Harbor area of Downtown Baltimore, Maryland, United States.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-md-3",
+     "cat": "md",
+     "value": 600,
+     "clue": "This home-run king nicknamed \"The Bambino\" was born in Baltimore in 1895.",
+     "answer": "Babe Ruth",
+     "accept": [
+      "Ruth",
+      "George Herman Ruth"
+     ],
+     "sources": [
+      {
+       "title": "Babe Ruth",
+       "url": "https://en.wikipedia.org/wiki/Babe_Ruth",
+       "revid": 1377872079,
+       "quote": "Born in Baltimore, Ruth was sent to St. Mary's Industrial School for Boys at age seven.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-md-4",
+     "cat": "md",
+     "value": 800,
+     "clue": "Many thin layers of cake with fudge frosting: in 2008 this became Maryland's official state dessert.",
+     "answer": "Smith Island cake",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Smith Island, Maryland",
+       "url": "https://en.wikipedia.org/wiki/Smith_Island,_Maryland",
+       "revid": 1374934821,
+       "quote": "Smith Island cake became the officially designated state dessert of Maryland on April 24, 2008.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-md-5",
+     "cat": "md",
+     "value": 1000,
+     "clue": "Opened in 1876, this Baltimore university was named for the merchant whose gift paid for it.",
+     "answer": "Johns Hopkins University",
+     "accept": [
+      "Johns Hopkins",
+      "Hopkins"
+     ],
+     "sources": [
+      {
+       "title": "Johns Hopkins University",
+       "url": "https://en.wikipedia.org/wiki/Johns_Hopkins_University",
+       "revid": 1378904539,
+       "quote": "Incorporated in 1867 and opened in 1876 based on the European research institution model, Johns Hopkins is considered to be the first research university in the U.S. The university was named for its first benefactor, the American businessman and Quaker philanthropist Johns Hopkins.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-bal-1",
+     "cat": "bal",
+     "value": 200,
+     "clue": "This Ravens quarterback was named MVP of Super Bowl XLVII.",
+     "answer": "Joe Flacco",
+     "accept": [
+      "Flacco"
+     ],
+     "sources": [
+      {
+       "title": "Super Bowl XLVII",
+       "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+       "revid": 1379001701,
+       "quote": "Flacco, who completed 22 of 33 passes for 287 yards and three touchdowns, became the fourth consecutive quarterback to be named Super Bowl MVP, after Drew Brees at Super Bowl XLIV, Aaron Rodgers at Super Bowl XLV, and Eli Manning at Super Bowl XLVI.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-bal-2",
+     "cat": "bal",
+     "value": 400,
+     "clue": "In Super Bowl XLVII the Ravens beat this NFL team from California.",
+     "answer": "San Francisco 49ers",
+     "accept": [
+      "49ers",
+      "the 49ers",
+      "San Francisco"
+     ],
+     "sources": [
+      {
+       "title": "Super Bowl XLVII",
+       "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+       "revid": 1379001701,
+       "quote": "Super Bowl XLVII was an American football game between the American Football Conference (AFC) champion Baltimore Ravens and the National Football Conference (NFC) champion San Francisco 49ers to decide the National Football League (NFL) champion for the 2012 season.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-bal-3",
+     "cat": "bal",
+     "value": 600,
+     "clue": "Super Bowl XLVII was nicknamed after the two head coaches, brothers who share this last name.",
+     "answer": "Harbaugh",
+     "accept": [
+      "the Harbaughs",
+      "Harbaugh brothers"
+     ],
+     "sources": [
+      {
+       "title": "Super Bowl XLVII",
+       "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+       "revid": 1379001701,
+       "quote": "For the first time in Super Bowl history, the game featured two brothers coaching against each other – Jim and John Harbaugh, head coaches of the 49ers and Ravens, respectively – earning it the nickname Har-bowl.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-bal-4",
+     "cat": "bal",
+     "value": 800,
+     "clue": "This Hall of Fame pitcher spent his whole career with the Orioles and won three Cy Young Awards.",
+     "answer": "Jim Palmer",
+     "accept": [
+      "Palmer"
+     ],
+     "sources": [
+      {
+       "title": "Jim Palmer",
+       "url": "https://en.wikipedia.org/wiki/Jim_Palmer",
+       "revid": 1377298178,
+       "quote": "He also won at least 20 games in eight different seasons and won three Cy Young Awards and four Gold Gloves during the decade.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-bal-5",
+     "cat": "bal",
+     "value": 1000,
+     "clue": "This switch-hitting Orioles first baseman, nicknamed \"Steady Eddie,\" reached both 3,000 hits and 500 home runs.",
+     "answer": "Eddie Murray",
+     "accept": [
+      "Murray"
+     ],
+     "sources": [
+      {
+       "title": "Eddie Murray",
+       "url": "https://en.wikipedia.org/wiki/Eddie_Murray",
+       "revid": 1371967168,
+       "quote": "Murray is one of just seven MLB players to have 3,000 hits and 500 home runs and one of just two switchhitters in each club.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-soc-1",
+     "cat": "soc",
+     "value": 200,
+     "clue": "From the color of their kit, Chelsea's best-known nickname is this.",
+     "answer": "The Blues",
+     "accept": [
+      "Blues"
+     ],
+     "sources": [
+      {
+       "title": "Chelsea F.C.",
+       "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+       "revid": 1378544423,
+       "quote": "Nicknamed the Blues, the team adopted their distinctive royal blue home strip early in the club's history, moving away from their original light blue shirts.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-soc-2",
+     "cat": "soc",
+     "value": 400,
+     "clue": "A player shown a card of this color is sent off.",
+     "answer": "Red",
+     "accept": [
+      "red card"
+     ],
+     "sources": [
+      {
+       "title": "Penalty card",
+       "url": "https://en.wikipedia.org/wiki/Penalty_card",
+       "revid": 1374784026,
+       "quote": "Yellow and red cards are the most common, typically indicating, respectively, cautions and dismissals.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-soc-3",
+     "cat": "soc",
+     "value": 600,
+     "clue": "The 2002 World Cup was the first held in Asia, co-hosted by South Korea and this country.",
+     "answer": "Japan",
+     "accept": [],
+     "sources": [
+      {
+       "title": "2002 FIFA World Cup",
+       "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+       "revid": 1377904178,
+       "quote": "It was held from 31 May to 30 June 2002 at sites in South Korea and Japan, with its final match hosted by Japan at International Stadium in Yokohama.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-soc-4",
+     "cat": "soc",
+     "value": 800,
+     "clue": "This Brazilian legend won the World Cup in 1958, 1962 and 1970.",
+     "answer": "Pelé",
+     "accept": [
+      "Pele",
+      "Edson Arantes do Nascimento"
+     ],
+     "sources": [
+      {
+       "title": "Pelé",
+       "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+       "revid": 1378551321,
+       "quote": "During his international career, he won three FIFA World Cup titles – in 1958, 1962, and 1970 – becoming the only player to do so and the youngest to win a World Cup, at just 17 years old.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-soc-5",
+     "cat": "soc",
+     "value": 1000,
+     "clue": "The U.S. women's national team won the Women's World Cup in 1991, 1999, 2015 and this year.",
+     "answer": "2019",
+     "accept": [],
+     "sources": [
+      {
+       "title": "United States women's national soccer team",
+       "url": "https://en.wikipedia.org/wiki/United_States_women%27s_national_soccer_team",
+       "revid": 1378593827,
+       "quote": "The U.S. team is the most successful team in international women's soccer, winning four Women's World Cup titles (1991, 1999, 2015, and 2019), five Olympic gold medals (1996, 2004, 2008, 2012, and 2024), nine CONCACAF W Championship titles, and one CONCACAF W Gold Cup title.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-space-1",
+     "cat": "space",
+     "value": 200,
+     "clue": "It's the planet closest to the Sun.",
+     "answer": "Mercury",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Mercury (planet)",
+       "url": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+       "revid": 1378988565,
+       "quote": "Despite being the closest planet to the sun, it is the second hottest after Venus, lacking an atmosphere to trap heat.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-space-2",
+     "cat": "space",
+     "value": 400,
+     "clue": "Our Solar System sits in one spiral arm of this galaxy.",
+     "answer": "Milky Way",
+     "accept": [
+      "the Milky Way"
+     ],
+     "sources": [
+      {
+       "title": "Milky Way",
+       "url": "https://en.wikipedia.org/wiki/Milky_Way",
+       "revid": 1378395608,
+       "quote": "The Milky Way or Milky Way Galaxy, or simply the Galaxy, is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars in other arms of the galaxy, which are so far away that they cannot be individually distinguished by the naked eye.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-space-3",
+     "cat": "space",
+     "value": 600,
+     "clue": "In 1983, aboard the Space Shuttle Challenger, she became the first American woman in space.",
+     "answer": "Sally Ride",
+     "accept": [
+      "Ride"
+     ],
+     "sources": [
+      {
+       "title": "Sally Ride",
+       "url": "https://en.wikipedia.org/wiki/Sally_Ride",
+       "revid": 1378505360,
+       "quote": "Born in Southern California, she joined NASA in 1978, and in 1983, became the first American woman and the third woman to fly in space.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-space-4",
+     "cat": "space",
+     "value": 800,
+     "clue": "This giant three-stage rocket launched the Apollo astronauts to the Moon.",
+     "answer": "Saturn V",
+     "accept": [
+      "Saturn 5"
+     ],
+     "sources": [
+      {
+       "title": "Saturn V",
+       "url": "https://en.wikipedia.org/wiki/Saturn_V",
+       "revid": 1368745721,
+       "quote": "The Saturn V is a retired American super heavy-lift launch vehicle developed by NASA under the Apollo program for human exploration of the Moon.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-space-5",
+     "cat": "space",
+     "value": 1000,
+     "clue": "About two and a half times the height of Mount Everest, this enormous shield volcano is on Mars.",
+     "answer": "Olympus Mons",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Olympus Mons",
+       "url": "https://en.wikipedia.org/wiki/Olympus_Mons",
+       "revid": 1379078266,
+       "quote": "Olympus Mons (; Latin for 'Mount Olympus') is a large shield volcano on Mars.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-sci-1",
+     "cat": "sci",
+     "value": 200,
+     "clue": "Plants take in this gas from the air during photosynthesis and release oxygen.",
+     "answer": "Carbon dioxide",
+     "accept": [
+      "CO2"
+     ],
+     "sources": [
+      {
+       "title": "Photosynthesis",
+       "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+       "revid": 1371284103,
+       "quote": "In this process, atmospheric carbon dioxide is incorporated into already existing organic compounds, such as ribulose bisphosphate (RuBP).",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-sci-2",
+     "cat": "sci",
+     "value": 400,
+     "clue": "Protons and neutrons sit in this tiny, dense center of an atom.",
+     "answer": "Nucleus",
+     "accept": [
+      "atomic nucleus"
+     ],
+     "sources": [
+      {
+       "title": "Atomic nucleus",
+       "url": "https://en.wikipedia.org/wiki/Atomic_nucleus",
+       "revid": 1371660523,
+       "quote": "The atomic nucleus is the small, dense region consisting of protons and neutrons at the center of an atom, discovered in 1911 by Ernest Rutherford at the University of Manchester based on the 1909 Geiger–Marsden gold foil experiment.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-sci-3",
+     "cat": "sci",
+     "value": 600,
+     "clue": "On the pH scale, pure water is neutral at this number.",
+     "answer": "7",
+     "accept": [
+      "seven"
+     ],
+     "sources": [
+      {
+       "title": "PH",
+       "url": "https://en.wikipedia.org/wiki/PH",
+       "revid": 1378443470,
+       "quote": "Solutions with a pH of 7 at 25 °C are neutral (i.e. have the same concentration of H+ ions as OH− ions, i.e. the same as pure water).",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-sci-4",
+     "cat": "sci",
+     "value": 800,
+     "clue": "Iron, nickel and copper are examples of these elements, which conduct heat and electricity well.",
+     "answer": "Metals",
+     "accept": [
+      "metal"
+     ],
+     "sources": [
+      {
+       "title": "Metal",
+       "url": "https://en.wikipedia.org/wiki/Metal",
+       "revid": 1371910012,
+       "quote": "A metal (from Ancient Greek μέταλλον (métallon) 'mine, quarry, metal') is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-sci-5",
+     "cat": "sci",
+     "value": 1000,
+     "clue": "This supercontinent held nearly all of Earth's land before it broke apart.",
+     "answer": "Pangaea",
+     "accept": [
+      "Pangea"
+     ],
+     "sources": [
+      {
+       "title": "Pangaea",
+       "url": "https://en.wikipedia.org/wiki/Pangaea",
+       "revid": 1376395143,
+       "quote": "Pangaea or Pangea ( pan-JEE-ə) was a supercontinent that existed during the late Paleozoic and early Mesozoic eras.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-word-1",
+     "cat": "word",
+     "value": 200,
+     "clue": "\"Hot\" and \"cold\" are examples of these words with opposite meanings.",
+     "answer": "Antonyms",
+     "accept": [
+      "antonym",
+      "opposites"
+     ],
+     "sources": [
+      {
+       "title": "Opposite",
+       "url": "https://en.wikipedia.org/wiki/Opposite",
+       "revid": 1355664222,
+       "quote": "A member of a pair of opposites can generally be determined by the question: \"What is the opposite of X?\" The term antonym (and the related antonymy) is commonly taken to be synonymous with opposite, but antonym also has other more restricted meanings.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": false
+    },
+    {
+     "id": "b3-word-2",
+     "cat": "word",
+     "value": 400,
+     "clue": "NASA and \"scuba\" are this kind of word, formed from the first letters of other words.",
+     "answer": "Acronym",
+     "accept": [
+      "acronyms"
+     ],
+     "sources": [
+      {
+       "title": "Acronym",
+       "url": "https://en.wikipedia.org/wiki/Acronym",
+       "revid": 1379040147,
+       "quote": "An acronym is an abbreviation formed using the initial letters of a multi-word name or phrase.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-word-3",
+     "cat": "word",
+     "value": 600,
+     "clue": "\"I've told you a million times!\" is this figure of speech, an exaggeration on purpose.",
+     "answer": "Hyperbole",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Hyperbole",
+       "url": "https://en.wikipedia.org/wiki/Hyperbole",
+       "revid": 1376875449,
+       "quote": "Hyperbole ( hy-PUR-bə-lee; adj. hyperbolic HY-pur-BOL-ick) is the use of exaggeration as a rhetorical device or figure of speech.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-word-4",
+     "cat": "word",
+     "value": 800,
+     "clue": "\"The wind whispered through the trees\" uses this figure of speech, giving human traits to something that isn't human.",
+     "answer": "Personification",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Personification",
+       "url": "https://en.wikipedia.org/wiki/Personification",
+       "revid": 1378848588,
+       "quote": "In most religions, deities have a strong element of personification, with human-like emotional reactions, desires, and intellectual capabilities.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    },
+    {
+     "id": "b3-word-5",
+     "cat": "word",
+     "value": 1000,
+     "clue": "It's the study of where words come from and how their meanings have changed over time.",
+     "answer": "Etymology",
+     "accept": [],
+     "sources": [
+      {
+       "title": "Etymology",
+       "url": "https://en.wikipedia.org/wiki/Etymology",
+       "revid": 1374019023,
+       "quote": "For languages with a long written history, etymologists make use of texts, particularly texts about the language itself, to gather knowledge about how words were used during earlier periods, how they developed in meaning and form, or when and how they entered the language.",
+       "publisher": "Wikipedia"
+      }
+     ],
+     "subjectArticle": true
+    }
+   ],
+   "final": {
+    "id": "b3-final",
+    "category": "Words from Space",
+    "clue": "The word \"planet\" comes from an ancient Greek word with this meaning, because planets moved across the sky while the stars stayed put.",
+    "answer": "Wanderer",
+    "accept": [
+     "wanderers",
+     "wandering star",
+     "wandering stars"
+    ],
+    "sources": [
+     {
+      "title": "Planet",
+      "url": "https://en.wikipedia.org/wiki/Planet",
+      "revid": 1377883466,
+      "quote": "The word planet comes from the Greek πλανήται (planḗtai) 'wanderers'.",
+      "publisher": "Wikipedia"
+     }
+    ]
+   }
+  }
+ ],
+ "_note": "Every clue cites a public Wikipedia article; quote = verbatim sentence from that article (revid noted) that contains the answer."
+}

@@ -1,0 +1,778 @@
+{
+ "1983 World Series": {
+  "title": "1983 World Series",
+  "url": "https://en.wikipedia.org/wiki/1983_World_Series",
+  "revid": 1378511567,
+  "fetched": "2026-10-07T17:33:00-0400",
+  "file": "1983_World_Series.txt",
+  "chars": 15541
+ },
+ "2002 FIFA World Cup": {
+  "title": "2002 FIFA World Cup",
+  "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+  "revid": 1377904178,
+  "fetched": "2026-10-07T17:33:02-0400",
+  "file": "2002_FIFA_World_Cup.txt",
+  "chars": 27094
+ },
+ "2012 UEFA Champions League final": {
+  "title": "2012 UEFA Champions League final",
+  "url": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
+  "revid": 1371171265,
+  "fetched": "2026-10-07T17:33:05-0400",
+  "file": "2012_UEFA_Champions_League_final.txt",
+  "chars": 13372
+ },
+ "2021 UEFA Champions League final": {
+  "title": "2021 UEFA Champions League final",
+  "url": "https://en.wikipedia.org/wiki/2021_UEFA_Champions_League_final",
+  "revid": 1359669709,
+  "fetched": "2026-10-07T17:33:07-0400",
+  "file": "2021_UEFA_Champions_League_final.txt",
+  "chars": 12903
+ },
+ "2022 FIFA World Cup final": {
+  "title": "2022 FIFA World Cup final",
+  "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+  "revid": 1377947686,
+  "fetched": "2026-10-07T17:33:09-0400",
+  "file": "2022_FIFA_World_Cup_final.txt",
+  "chars": 24804
+ },
+ "2026 FIFA World Cup": {
+  "title": "2026 FIFA World Cup",
+  "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+  "revid": 1378779150,
+  "fetched": "2026-10-07T17:33:12-0400",
+  "file": "2026_FIFA_World_Cup.txt",
+  "chars": 43654
+ },
+ "Acronym": {
+  "title": "Acronym",
+  "url": "https://en.wikipedia.org/wiki/Acronym",
+  "revid": 1379040147,
+  "fetched": "2026-10-07T17:33:14-0400",
+  "file": "Acronym.txt",
+  "chars": 61184
+ },
+ "Apollo 11": {
+  "title": "Apollo 11",
+  "url": "https://en.wikipedia.org/wiki/Apollo_11",
+  "revid": 1371120273,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Apollo_11.txt",
+  "chars": 3257,
+  "part": "intro"
+ },
+ "Anagram": {
+  "title": "Anagram",
+  "url": "https://en.wikipedia.org/wiki/Anagram",
+  "revid": 1375668333,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Anagram.txt",
+  "chars": 643,
+  "part": "intro"
+ },
+ "Boiling point": {
+  "title": "Boiling point",
+  "url": "https://en.wikipedia.org/wiki/Boiling_point",
+  "revid": 1369507113,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Boiling_point.txt",
+  "chars": 1875,
+  "part": "intro"
+ },
+ "Babe Ruth": {
+  "title": "Babe Ruth",
+  "url": "https://en.wikipedia.org/wiki/Babe_Ruth",
+  "revid": 1377872079,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Babe_Ruth.txt",
+  "chars": 2827,
+  "part": "intro"
+ },
+ "Baltimore Ravens": {
+  "title": "Baltimore Ravens",
+  "url": "https://en.wikipedia.org/wiki/Baltimore_Ravens",
+  "revid": 1377709011,
+  "fetched": "2026-10-07T17:36:01-0400",
+  "file": "Baltimore_Ravens.txt",
+  "chars": 51543,
+  "part": "full"
+ },
+ "Baltimore Orioles": {
+  "title": "Baltimore Orioles",
+  "url": "https://en.wikipedia.org/wiki/Baltimore_Orioles",
+  "revid": 1378768536,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Baltimore_Orioles.txt",
+  "chars": 3004,
+  "part": "intro"
+ },
+ "Chelsea F.C.": {
+  "title": "Chelsea F.C.",
+  "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+  "revid": 1378544423,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Chelsea_F_C.txt",
+  "chars": 1877,
+  "part": "intro"
+ },
+ "Association football": {
+  "title": "Association football",
+  "url": "https://en.wikipedia.org/wiki/Association_football",
+  "revid": 1378752039,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Association_football.txt",
+  "chars": 2717,
+  "part": "intro"
+ },
+ "Baltimore/Washington International Airport": {
+  "title": "Baltimore/Washington International Airport",
+  "url": "https://en.wikipedia.org/wiki/Baltimore/Washington_International_Airport",
+  "revid": 1378857457,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Baltimore_Washington_International_Airport.txt",
+  "chars": 1477,
+  "part": "intro"
+ },
+ "Annapolis, Maryland": {
+  "title": "Annapolis, Maryland",
+  "url": "https://en.wikipedia.org/wiki/Annapolis,_Maryland",
+  "revid": 1377064064,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Annapolis_Maryland.txt",
+  "chars": 1571,
+  "part": "intro"
+ },
+ "Alliteration": {
+  "title": "Alliteration",
+  "url": "https://en.wikipedia.org/wiki/Alliteration",
+  "revid": 1378984327,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Alliteration.txt",
+  "chars": 286,
+  "part": "intro"
+ },
+ "Chesapeake Bay": {
+  "title": "Chesapeake Bay",
+  "url": "https://en.wikipedia.org/wiki/Chesapeake_Bay",
+  "revid": 1378458431,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Chesapeake_Bay.txt",
+  "chars": 2600,
+  "part": "intro"
+ },
+ "Cal Ripken Jr.": {
+  "title": "Cal Ripken Jr.",
+  "url": "https://en.wikipedia.org/wiki/Cal_Ripken_Jr.",
+  "revid": 1372682724,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Cal_Ripken_Jr.txt",
+  "chars": 3160,
+  "part": "intro"
+ },
+ "Eddie Murray": {
+  "title": "Eddie Murray",
+  "url": "https://en.wikipedia.org/wiki/Eddie_Murray",
+  "revid": 1371967168,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Eddie_Murray.txt",
+  "chars": 2898,
+  "part": "intro"
+ },
+ "Brooks Robinson": {
+  "title": "Brooks Robinson",
+  "url": "https://en.wikipedia.org/wiki/Brooks_Robinson",
+  "revid": 1371041539,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Brooks_Robinson.txt",
+  "chars": 3497,
+  "part": "intro"
+ },
+ "Callinectes sapidus": {
+  "title": "Callinectes sapidus",
+  "url": "https://en.wikipedia.org/wiki/Callinectes_sapidus",
+  "revid": 1378735836,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Callinectes_sapidus.txt",
+  "chars": 1196,
+  "part": "intro"
+ },
+ "Blend word": {
+  "title": "Portmanteau",
+  "url": "https://en.wikipedia.org/wiki/Portmanteau",
+  "revid": 1378753745,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Blend_word.txt",
+  "chars": 559,
+  "part": "intro"
+ },
+ "Atomic nucleus": {
+  "title": "Atomic nucleus",
+  "url": "https://en.wikipedia.org/wiki/Atomic_nucleus",
+  "revid": 1371660523,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Atomic_nucleus.txt",
+  "chars": 1318,
+  "part": "intro"
+ },
+ "Baltimore": {
+  "title": "Baltimore",
+  "url": "https://en.wikipedia.org/wiki/Baltimore",
+  "revid": 1378832262,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Baltimore.txt",
+  "chars": 2980,
+  "part": "intro"
+ },
+ "Artemis program": {
+  "title": "Artemis program",
+  "url": "https://en.wikipedia.org/wiki/Artemis_program",
+  "revid": 1378556685,
+  "fetched": "2026-10-07T17:34:02-0400",
+  "file": "Artemis_program.txt",
+  "chars": 1625,
+  "part": "intro"
+ },
+ "Gold": {
+  "title": "Gold",
+  "url": "https://en.wikipedia.org/wiki/Gold",
+  "revid": 1378929640,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Gold.txt",
+  "chars": 2803,
+  "part": "intro"
+ },
+ "Hydrogen": {
+  "title": "Hydrogen",
+  "url": "https://en.wikipedia.org/wiki/Hydrogen",
+  "revid": 1376485434,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Hydrogen.txt",
+  "chars": 2630,
+  "part": "intro"
+ },
+ "Hemoglobin": {
+  "title": "Hemoglobin",
+  "url": "https://en.wikipedia.org/wiki/Hemoglobin",
+  "revid": 1376983759,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Hemoglobin.txt",
+  "chars": 2452,
+  "part": "intro"
+ },
+ "International Space Station": {
+  "title": "International Space Station",
+  "url": "https://en.wikipedia.org/wiki/International_Space_Station",
+  "revid": 1379042073,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "International_Space_Station.txt",
+  "chars": 3228,
+  "part": "intro"
+ },
+ "Harriet Tubman": {
+  "title": "Harriet Tubman",
+  "url": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+  "revid": 1375432630,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Harriet_Tubman.txt",
+  "chars": 2442,
+  "part": "intro"
+ },
+ "Johns Hopkins University": {
+  "title": "Johns Hopkins University",
+  "url": "https://en.wikipedia.org/wiki/Johns_Hopkins_University",
+  "revid": 1378904539,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Johns_Hopkins_University.txt",
+  "chars": 2112,
+  "part": "intro"
+ },
+ "Frank Robinson": {
+  "title": "Frank Robinson",
+  "url": "https://en.wikipedia.org/wiki/Frank_Robinson",
+  "revid": 1370838553,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Frank_Robinson.txt",
+  "chars": 2034,
+  "part": "intro"
+ },
+ "Homophone": {
+  "title": "Homophone",
+  "url": "https://en.wikipedia.org/wiki/Homophone",
+  "revid": 1379061292,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Homophone.txt",
+  "chars": 744,
+  "part": "intro"
+ },
+ "Human skeleton": {
+  "title": "Human skeleton",
+  "url": "https://en.wikipedia.org/wiki/Human_skeleton",
+  "revid": 1371735216,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Human_skeleton.txt",
+  "chars": 1384,
+  "part": "intro"
+ },
+ "Hyperbole": {
+  "title": "Hyperbole",
+  "url": "https://en.wikipedia.org/wiki/Hyperbole",
+  "revid": 1376875449,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Hyperbole.txt",
+  "chars": 369,
+  "part": "intro"
+ },
+ "Jousting": {
+  "title": "Jousting",
+  "url": "https://en.wikipedia.org/wiki/Jousting",
+  "revid": 1378281649,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Jousting.txt",
+  "chars": 1322,
+  "part": "intro"
+ },
+ "Fort McHenry": {
+  "title": "Fort McHenry",
+  "url": "https://en.wikipedia.org/wiki/Fort_McHenry",
+  "revid": 1376246054,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Fort_McHenry.txt",
+  "chars": 1306,
+  "part": "intro"
+ },
+ "Goddard Space Flight Center": {
+  "title": "Goddard Space Flight Center",
+  "url": "https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center",
+  "revid": 1375963868,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Goddard_Space_Flight_Center.txt",
+  "chars": 2035,
+  "part": "intro"
+ },
+ "Hat-trick": {
+  "title": "Hat-trick",
+  "url": "https://en.wikipedia.org/wiki/Hat-trick",
+  "revid": 1374476836,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Hat_trick.txt",
+  "chars": 146,
+  "part": "intro"
+ },
+ "James Webb Space Telescope": {
+  "title": "James Webb Space Telescope",
+  "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "revid": 1377003479,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "James_Webb_Space_Telescope.txt",
+  "chars": 3141,
+  "part": "intro"
+ },
+ "Flag of Maryland": {
+  "title": "Flag of Maryland",
+  "url": "https://en.wikipedia.org/wiki/Flag_of_Maryland",
+  "revid": 1376187115,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Flag_of_Maryland.txt",
+  "chars": 376,
+  "part": "intro"
+ },
+ "Jim Palmer": {
+  "title": "Jim Palmer",
+  "url": "https://en.wikipedia.org/wiki/Jim_Palmer",
+  "revid": 1377298178,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Jim_Palmer.txt",
+  "chars": 1708,
+  "part": "intro"
+ },
+ "Frank Lampard": {
+  "title": "Frank Lampard",
+  "url": "https://en.wikipedia.org/wiki/Frank_Lampard",
+  "revid": 1375758129,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Frank_Lampard.txt",
+  "chars": 3265,
+  "part": "intro"
+ },
+ "Etymology": {
+  "title": "Etymology",
+  "url": "https://en.wikipedia.org/wiki/Etymology",
+  "revid": 1374019023,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Etymology.txt",
+  "chars": 1628,
+  "part": "intro"
+ },
+ "Igneous rock": {
+  "title": "Igneous rock",
+  "url": "https://en.wikipedia.org/wiki/Igneous_rock",
+  "revid": 1370877236,
+  "fetched": "2026-10-07T17:34:05-0400",
+  "file": "Igneous_rock.txt",
+  "chars": 888,
+  "part": "intro"
+ },
+ "Lacrosse": {
+  "title": "Lacrosse",
+  "url": "https://en.wikipedia.org/wiki/Lacrosse",
+  "revid": 1378572739,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Lacrosse.txt",
+  "chars": 1947,
+  "part": "intro"
+ },
+ "Metal": {
+  "title": "Metal",
+  "url": "https://en.wikipedia.org/wiki/Metal",
+  "revid": 1371910012,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Metal.txt",
+  "chars": 2614,
+  "part": "intro"
+ },
+ "Mitochondrion": {
+  "title": "Mitochondria",
+  "url": "https://en.wikipedia.org/wiki/Mitochondria",
+  "revid": 1378704169,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Mitochondrion.txt",
+  "chars": 2121,
+  "part": "intro"
+ },
+ "Mercury (planet)": {
+  "title": "Mercury (planet)",
+  "url": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+  "revid": 1378988565,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Mercury_planet.txt",
+  "chars": 3139,
+  "part": "intro"
+ },
+ "Mohs scale": {
+  "title": "Mohs scale",
+  "url": "https://en.wikipedia.org/wiki/Mohs_scale",
+  "revid": 1371793140,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Mohs_scale.txt",
+  "chars": 1014,
+  "part": "intro"
+ },
+ "Onomatopoeia": {
+  "title": "Onomatopoeia",
+  "url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "revid": 1374815488,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Onomatopoeia.txt",
+  "chars": 857,
+  "part": "intro"
+ },
+ "Oxymoron": {
+  "title": "Oxymoron",
+  "url": "https://en.wikipedia.org/wiki/Oxymoron",
+  "revid": 1376897418,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Oxymoron.txt",
+  "chars": 1131,
+  "part": "intro"
+ },
+ "Olympus Mons": {
+  "title": "Olympus Mons",
+  "url": "https://en.wikipedia.org/wiki/Olympus_Mons",
+  "revid": 1379078266,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Olympus_Mons.txt",
+  "chars": 1241,
+  "part": "intro"
+ },
+ "Palindrome": {
+  "title": "Palindrome",
+  "url": "https://en.wikipedia.org/wiki/Palindrome",
+  "revid": 1376210800,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Palindrome.txt",
+  "chars": 1112,
+  "part": "intro"
+ },
+ "PH": {
+  "title": "PH",
+  "url": "https://en.wikipedia.org/wiki/PH",
+  "revid": 1378443470,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "PH.txt",
+  "chars": 2613,
+  "part": "intro"
+ },
+ "Jupiter": {
+  "title": "Jupiter",
+  "url": "https://en.wikipedia.org/wiki/Jupiter",
+  "revid": 1378923247,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Jupiter.txt",
+  "chars": 2916,
+  "part": "intro"
+ },
+ "Newton's laws of motion": {
+  "title": "Newton's laws of motion",
+  "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+  "revid": 1375948061,
+  "fetched": "2026-10-07T17:36:05-0400",
+  "file": "Newton_s_laws_of_motion.txt",
+  "chars": 93152,
+  "part": "full"
+ },
+ "Opposite (semantics)": {
+  "title": "Opposite",
+  "url": "https://en.wikipedia.org/wiki/Opposite",
+  "revid": 1355664222,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Opposite_semantics.txt",
+  "chars": 1200,
+  "part": "intro"
+ },
+ "Oriole Park at Camden Yards": {
+  "title": "Oriole Park at Camden Yards",
+  "url": "https://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards",
+  "revid": 1377140400,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Oriole_Park_at_Camden_Yards.txt",
+  "chars": 886,
+  "part": "intro"
+ },
+ "National Aquarium (Baltimore)": {
+  "title": "National Aquarium (Baltimore)",
+  "url": "https://en.wikipedia.org/wiki/National_Aquarium_(Baltimore)",
+  "revid": 1379084236,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "National_Aquarium_Baltimore.txt",
+  "chars": 1687,
+  "part": "intro"
+ },
+ "Old Bay Seasoning": {
+  "title": "Old Bay Seasoning",
+  "url": "https://en.wikipedia.org/wiki/Old_Bay_Seasoning",
+  "revid": 1373071819,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Old_Bay_Seasoning.txt",
+  "chars": 597,
+  "part": "intro"
+ },
+ "Milky Way": {
+  "title": "Milky Way",
+  "url": "https://en.wikipedia.org/wiki/Milky_Way",
+  "revid": 1378395608,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Milky_Way.txt",
+  "chars": 1982,
+  "part": "intro"
+ },
+ "Mars": {
+  "title": "Mars",
+  "url": "https://en.wikipedia.org/wiki/Mars",
+  "revid": 1375821898,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Mars.txt",
+  "chars": 3575,
+  "part": "intro"
+ },
+ "Pangaea": {
+  "title": "Pangaea",
+  "url": "https://en.wikipedia.org/wiki/Pangaea",
+  "revid": 1376395143,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Pangaea.txt",
+  "chars": 676,
+  "part": "intro"
+ },
+ "Lamar Jackson": {
+  "title": "Lamar Jackson",
+  "url": "https://en.wikipedia.org/wiki/Lamar_Jackson",
+  "revid": 1378505184,
+  "fetched": "2026-10-07T17:34:08-0400",
+  "file": "Lamar_Jackson.txt",
+  "chars": 1563,
+  "part": "intro"
+ },
+ "Planet": {
+  "title": "Planet",
+  "url": "https://en.wikipedia.org/wiki/Planet",
+  "revid": 1377883466,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Planet.txt",
+  "chars": 3205,
+  "part": "intro"
+ },
+ "Photosynthesis": {
+  "title": "Photosynthesis",
+  "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+  "revid": 1371284103,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Photosynthesis.txt",
+  "chars": 4085,
+  "part": "intro"
+ },
+ "Pel\u00e9": {
+  "title": "Pel\u00e9",
+  "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+  "revid": 1378551321,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Pel.txt",
+  "chars": 2678,
+  "part": "intro"
+ },
+ "Spoonerism": {
+  "title": "Spoonerism",
+  "url": "https://en.wikipedia.org/wiki/Spoonerism",
+  "revid": 1367479282,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Spoonerism.txt",
+  "chars": 900,
+  "part": "intro"
+ },
+ "Simile": {
+  "title": "Simile",
+  "url": "https://en.wikipedia.org/wiki/Simile",
+  "revid": 1377091663,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Simile.txt",
+  "chars": 1021,
+  "part": "intro"
+ },
+ "Super Bowl XXXV": {
+  "title": "Super Bowl XXXV",
+  "url": "https://en.wikipedia.org/wiki/Super_Bowl_XXXV",
+  "revid": 1370489631,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Super_Bowl_XXXV.txt",
+  "chars": 2035,
+  "part": "intro"
+ },
+ "Yuri Gagarin": {
+  "title": "Yuri Gagarin",
+  "url": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+  "revid": 1378508084,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Yuri_Gagarin.txt",
+  "chars": 1827,
+  "part": "intro"
+ },
+ "Pangram": {
+  "title": "Pangram",
+  "url": "https://en.wikipedia.org/wiki/Pangram",
+  "revid": 1379045894,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Pangram.txt",
+  "chars": 250,
+  "part": "intro"
+ },
+ "Sally Ride": {
+  "title": "Sally Ride",
+  "url": "https://en.wikipedia.org/wiki/Sally_Ride",
+  "revid": 1378505360,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Sally_Ride.txt",
+  "chars": 2100,
+  "part": "intro"
+ },
+ "Smith Island cake": {
+  "title": "Smith Island, Maryland",
+  "url": "https://en.wikipedia.org/wiki/Smith_Island,_Maryland",
+  "revid": 1374934821,
+  "fetched": "2026-10-07T17:36:08-0400",
+  "file": "Smith_Island_cake.txt",
+  "chars": 9225,
+  "part": "full"
+ },
+ "Robert H. Goddard": {
+  "title": "Robert H. Goddard",
+  "url": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+  "revid": 1379079442,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Robert_H_Goddard.txt",
+  "chars": 2184,
+  "part": "intro"
+ },
+ "United States women's national soccer team": {
+  "title": "United States women's national soccer team",
+  "url": "https://en.wikipedia.org/wiki/United_States_women%27s_national_soccer_team",
+  "revid": 1378593827,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "United_States_women_s_national_soccer_team.txt",
+  "chars": 2255,
+  "part": "intro"
+ },
+ "Personification": {
+  "title": "Personification",
+  "url": "https://en.wikipedia.org/wiki/Personification",
+  "revid": 1378848588,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Personification.txt",
+  "chars": 3077,
+  "part": "intro"
+ },
+ "Super Bowl XLVII": {
+  "title": "Super Bowl XLVII",
+  "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+  "revid": 1379001701,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Super_Bowl_XLVII.txt",
+  "chars": 3705,
+  "part": "intro"
+ },
+ "Penalty card": {
+  "title": "Penalty card",
+  "url": "https://en.wikipedia.org/wiki/Penalty_card",
+  "revid": 1374784026,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Penalty_card.txt",
+  "chars": 746,
+  "part": "intro"
+ },
+ "Saturn V": {
+  "title": "Saturn V",
+  "url": "https://en.wikipedia.org/wiki/Saturn_V",
+  "revid": 1368745721,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Saturn_V.txt",
+  "chars": 2552,
+  "part": "intro"
+ },
+ "Perseverance (rover)": {
+  "title": "Perseverance (rover)",
+  "url": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+  "revid": 1377293305,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "Perseverance_rover.txt",
+  "chars": 1627,
+  "part": "intro"
+ },
+ "SpaceX Super Heavy": {
+  "title": "SpaceX Super Heavy",
+  "url": "https://en.wikipedia.org/wiki/SpaceX_Super_Heavy",
+  "revid": 1378541953,
+  "fetched": "2026-10-07T17:34:12-0400",
+  "file": "SpaceX_Super_Heavy.txt",
+  "chars": 636,
+  "part": "intro"
+ },
+ "Artemis": {
+  "title": "Artemis",
+  "url": "https://en.wikipedia.org/wiki/Artemis",
+  "revid": 1378209655,
+  "fetched": "2026-10-07T17:35:29-0400",
+  "file": "Artemis.txt",
+  "chars": 69217,
+  "part": "full"
+ },
+ "Diamond": {
+  "title": "Diamond",
+  "url": "https://en.wikipedia.org/wiki/Diamond",
+  "revid": 1375974103,
+  "fetched": "2026-10-07T17:36:03-0400",
+  "file": "Diamond.txt",
+  "chars": 62349,
+  "part": "full"
+ }
+}
