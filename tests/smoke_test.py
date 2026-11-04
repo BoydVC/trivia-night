@@ -17,7 +17,7 @@ check(cats == ["md", "bal", "soc", "space", "sci", "word"], "six categories in o
 check(D["values"] == [200, 400, 600, 800, 1000], "values 200..1000")
 check(len(D["boards"]) == 3, "three boards")
 # words that must never appear in a clue (family names / home town / kids' schools & clubs). Questions are public trivia only.
-PRIVATE = ["Millersville", "Boyd", "Miranda", "Char", "Charlotte", "Vic", "Victoria", "Victor", "Severna", "Crofton", "Arundel High", "travel team", "our family", "your dad", "your mom"]
+PRIVATE = ["Millersville", "Boyd", "Jordan", "Alex", "Alex", "Sam", "Victoria", "Samuel", "Severna", "Crofton", "Arundel High", "travel team", "our family", "your dad", "your mom"]
 
 def check_sources(item, where, subject_ok):
     srcs = item.get("sources") or []
@@ -95,7 +95,7 @@ if os.path.exists(snap):
     d3 = dom("host=1&demo=answer&b=1")
     check("HOST VIEW" in d3 and str(c["sources"][0]["revid"]) in d3, "host view renders with source revid")
     d4 = dom("demo=winner&b=1")
-    check("Miranda" in d4 and "confetti" in d4, "champion screen renders")
+    check("Jordan" in d4 and "confetti" in d4, "champion screen renders")
 
 # server (only if it's running)
 try:

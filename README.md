@@ -8,7 +8,7 @@ A Jeopardy-style game for the kitchen TV. It has 6 categories × 5 values, 3 dif
 - **Served (best):** `./run.sh start`, then open http://127.0.0.1:4253 on the TV. Open the host window with **H** or `http://127.0.0.1:4253/?host=1` on a laptop or phone. It updates live because it's the same origin.
 - **Offline:** open `dist/trivia-night-snapshot.html` directly. It's one file with fonts and data inlined and needs no network. The host window can't sync across `file://` windows, so use **A** (answer peek) instead.
 
-**Setup:** pick a board (keys 1–3) and a team preset: Everyone (4), Kids vs Parents, Boyd+Vic vs Miranda+Char, or 3 teams. You can also use ±team and type names.
+**Setup:** pick a board (keys 1–3) and a team preset: Everyone (4), Kids vs Parents, Boyd+Sam vs Jordan+Alex, or 3 teams. You can also use ±team and type names.
 
 **Keys** (touch/click works for everything):
 
