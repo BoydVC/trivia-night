@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Boyd Family Trivia Night: ./run.sh build|start|stop|restart|status|shots|test|all
+# Lakeside Family Trivia Night: ./run.sh build|start|stop|restart|status|shots|test|all
 set -e; cd "$(dirname "$0")"
 PORT=4253; PIDF=data/server.pid; LOG=data/server.log
 status(){ if [ -f "$PIDF" ] && kill -0 "$(cat $PIDF)" 2>/dev/null && curl -sf "http://127.0.0.1:$PORT/healthz" >/dev/null; then echo "running on http://127.0.0.1:$PORT (pid $(cat $PIDF))"; else echo "not running"; return 1; fi; }

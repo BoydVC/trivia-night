@@ -1,4 +1,4 @@
-# Boyd Family Trivia Night
+# Lakeside Family Trivia Night
 
 A Jeopardy-style game for the kitchen TV. It has 6 categories × 5 values, 3 different boards (A · Crabs & Chopsticks, B · Purple Reign, C · Blue Skies) and a Final for each board. That's **93 questions in all** (90 board clues + 3 Finals).
 
@@ -8,7 +8,7 @@ A Jeopardy-style game for the kitchen TV. It has 6 categories × 5 values, 3 dif
 - **Served (best):** `./run.sh start`, then open http://127.0.0.1:4253 on the TV. Open the host window with **H** or `http://127.0.0.1:4253/?host=1` on a laptop or phone. It updates live because it's the same origin.
 - **Offline:** open `dist/trivia-night-snapshot.html` directly. It's one file with fonts and data inlined and needs no network. The host window can't sync across `file://` windows, so use **A** (answer peek) instead.
 
-**Setup:** pick a board (keys 1–3) and a team preset: Everyone (4), Kids vs Parents, Boyd+Sam vs Jordan+Alex, or 3 teams. You can also use ±team and type names.
+**Setup:** pick a board (keys 1–3) and a team preset: Everyone (4), Kids vs Parents, Alex+Jo vs Sam+Ri, or 3 teams. You can also use ±team and type names.
 
 **Keys** (touch/click works for everything):
 
@@ -56,6 +56,6 @@ Add a tuple to `questions.py` that cites a Wikipedia article. Then run `./run.sh
 
 ---
 ## Repo notes
-- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/trivia-night` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
