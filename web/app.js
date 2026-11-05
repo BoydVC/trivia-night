@@ -4,9 +4,9 @@ const DATA = window.TN_DATA;
 const HOST = /[?&]host=1/.test(location.search);
 const TEAM_COLORS = ['#22c55e', '#a78bfa', '#f472b6', '#38bdf8'];
 const PRESETS = {
-  'Everyone (4)': ['Boyd', 'Miranda', 'Char', 'Vic'],
+  'Everyone (4)': ['Boyd', 'Jordan', 'Alex', 'Sam'],
   'Kids vs Parents': ['Parents', 'Kids'],
-  'Boyd+Vic vs Miranda+Char': ['Boyd & Vic', 'Miranda & Char'],
+  'Boyd+Sam vs Jordan+Alex': ['Boyd & Sam', 'Jordan & Alex'],
   '3 teams': ['Team 1', 'Team 2', 'Team 3'],
 };
 const LS = 'boyd-trivia-v1';
