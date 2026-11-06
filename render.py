@@ -19,7 +19,7 @@ def page():
     css = open(os.path.join(HERE, "web", "style.css")).read(); js = open(os.path.join(HERE, "web", "app.js")).read()
     blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-<title>Boyd Family Trivia Night</title><style>{ff}{css}</style></head><body><div id="app"></div>
+<title>Lakeside Family Trivia Night</title><style>{ff}{css}</style></head><body><div id="app"></div>
 <script>window.TN_DATA={blob};</script><script>{js}</script></body></html>"""
 
 if __name__ == "__main__":

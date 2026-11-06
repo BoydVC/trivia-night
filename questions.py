@@ -1,4 +1,4 @@
-"""Boyd Family Trivia Night question bank. Facts are public and checked against the cited Wikipedia article:
+"""Lakeside Family Trivia Night question bank. Facts are public and checked against the cited Wikipedia article:
 `kw` = words that must all appear in ONE sentence of the source article (that sentence is saved as the evidence quote),
 `proof` = the part of the answer that must appear in that quote (defaults to the answer). Nothing personal about the family."""
 CATS = [

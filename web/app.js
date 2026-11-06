@@ -4,9 +4,9 @@ const DATA = window.TN_DATA;
 const HOST = /[?&]host=1/.test(location.search);
 const TEAM_COLORS = ['#22c55e', '#a78bfa', '#f472b6', '#38bdf8'];
 const PRESETS = {
-  'Everyone (4)': ['Boyd', 'Jordan', 'Alex', 'Sam'],
+  'Everyone (4)': ['Alex', 'Sam', 'Ri', 'Jo'],
   'Kids vs Parents': ['Parents', 'Kids'],
-  'Boyd+Sam vs Jordan+Alex': ['Boyd & Sam', 'Jordan & Alex'],
+  'Alex+Jo vs Sam+Ri': ['Alex & Jo', 'Sam & Ri'],
   '3 teams': ['Team 1', 'Team 2', 'Team 3'],
 };
 const LS = 'boyd-trivia-v1';
@@ -147,7 +147,7 @@ function scoresBar(){
 }
 function header(){
   const b = board(); const left = b.cells.length - Object.keys(S.used).length;
-  return `<div class="mdstripe"></div><div class="hdr"><div class="logo">BOYD FAMILY TRIVIA NIGHT<small>${esc(b.name)} · ${left} clues left</small></div><span class="sp"></span>
+  return `<div class="mdstripe"></div><div class="hdr"><div class="logo">LAKESIDE FAMILY TRIVIA NIGHT<small>${esc(b.name)} · ${left} clues left</small></div><span class="sp"></span>
    <span class="pill" data-act="host">⧉ Host window (H)</span><span class="pill" data-act="peek">${S.peek ? '🙈 Hide answers' : '👁 Answer peek (A)'}</span>
    <span class="pill" data-act="final">★ Final (F)</span><span class="pill" data-act="undo">↶ Undo (U)</span><span class="pill" data-act="mute">${S.mute ? '🔇' : '🔊'} (M)</span><span class="pill" data-act="setup">⚙ Setup</span></div>`;
 }
